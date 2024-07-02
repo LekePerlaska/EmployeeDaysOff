@@ -1,8 +1,5 @@
 ﻿using AutoMapper;
 using EmployeeDaysOff.Presentation.Configuration;
-using Microsoft.EntityFrameworkCore;
-using Microsoft.AspNetCore.Builder;
-using Microsoft.AspNetCore.Hosting;
 using EmployeeDaysOff.Application.Interfaces;
 using EmployeeDaysOff.Application.Services;
 using EmployeeDaysOff.Core.Interfaces;
@@ -23,6 +20,7 @@ builder.Services.AddScoped<ILeaveAllocationService, LeaveAllocationService>();
 builder.Services.AddScoped<ILeaveTypeService, LeaveTypeService>();
 builder.Services.AddScoped<ILeaveRequestService, LeaveRequestService>();
 builder.Services.AddScoped<IUnitOfWork>();
+
 
 
 builder.Services.AddControllers();

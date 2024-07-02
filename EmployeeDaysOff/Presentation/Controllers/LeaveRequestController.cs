@@ -1,4 +1,5 @@
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.AspNetCore.Authorization;
 using EmployeeDaysOff.Application.UseCases;
 using EmployeeDaysOff.Application.Interfaces;
 using EmployeeDaysOff.Application.DTOs;

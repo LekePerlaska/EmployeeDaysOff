@@ -1,6 +1,7 @@
 using Microsoft.AspNetCore.Mvc;
 using EmployeeDaysOff.Application.Interfaces;
 using EmployeeDaysOff.Application.DTOs;
+using Microsoft.AspNetCore.Authorization;
 
 namespace EmployeeDaysOff.Presentation.Controllers
 {
