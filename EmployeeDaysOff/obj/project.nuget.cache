@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "td27s9YwcD8=",
+  "success": true,
+  "projectFilePath": "/home/leke/Documents/Back-end/Week6-7/EmployeeDaysOff/EmployeeDaysOff.csproj",
+  "expectedPackageFiles": [
+    "/home/leke/.nuget/packages/microsoft.netcore.app.ref/8.0.6/microsoft.netcore.app.ref.8.0.6.nupkg.sha512",
+    "/home/leke/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.6/microsoft.aspnetcore.app.ref.8.0.6.nupkg.sha512",
+    "/home/leke/.nuget/packages/microsoft.netcore.app.host.linux-x64/8.0.6/microsoft.netcore.app.host.linux-x64.8.0.6.nupkg.sha512"
+  ],
+  "logs": []
+}
